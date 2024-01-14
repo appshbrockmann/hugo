@@ -1,5 +1,6 @@
 baseURL = 'https://git.hermann-brockmann.ch/'
 languageCode = 'de-CH'
 title = 'Meine Homepage'
-theme = 'ananke'
+theme = 'hugo-scroll'
+#theme = 'ananke'
 enableRobotsTXT = true
